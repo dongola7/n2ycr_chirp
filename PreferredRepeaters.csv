@@ -1,0 +1,11 @@
+Description (Do not copy to CHIRP),Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+King’s County Radio Club Repeater,KC2RC BK,146.730000,-,0.600000,Tone,88.5,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+"LIMARC (Long Island) Repeater - This is the closest to NYC, but it’s part of a system of linked repeaters. If you can hit it, you can get all over LI.",W2VL LIMAR,146.850000,-,0.600000,Tone,136.5,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+"Local Queens repeater. No club affiliation, frequently hear people talking",WB2HWW QU,440.700000,+,5.000000,Tone,114.8,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+,N2NEI LI,145.270000,-,0.600000,Tone,136.5,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+Preferred N2YCR Repeater,N2ROW BK,441.100000,+,5.000000,Tone,136.5,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+Repeater in the Bronx,KD2SPF BX,440.350000,+,5.000000,TSQL,173.8,173.8,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+,NY4Z,440.600000,+,5.000000,Tone,141.3,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+Linked repeater network in NJ. Can hear clearly here in Queens. Lots of chatter most days,W2FCC NJ,446.375000,-,5.000000,Tone,141.3,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+Another NJ repeater with some chatter,WA2NJF 2M,145.230000,-,0.600000,Tone,114.8,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+Another NJ repeater with some chatter,WA2NJF 70,446.675000,-,5.000000,Tone,114.8,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,

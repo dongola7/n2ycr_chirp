@@ -1,0 +1,4 @@
+Description (Do not copy to CHIRP),Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+National 2M FM Call Frequency,2M CALL,146.520000,,0.000000,,88.5,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+National 70cm FM Call Frequency,70CM CALL,446.000000,,0.000000,,88.5,88.5,23,RR,23,Tone->Tone,FM,5.00,,5.0W,,,,,
+N2YCR Simplex Frequency,RSTR CA,147.420000,,0.000000,,88.5,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,

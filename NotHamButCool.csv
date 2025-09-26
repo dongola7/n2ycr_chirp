@@ -1,0 +1,2 @@
+Description (Do not copy to CHIRP),Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+,NBC,450.390000,,0.000000,,88.5,88.5,23,NN,23,Tone->Tone,FM,5.00,,5.0W,,,,,
