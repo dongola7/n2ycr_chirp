@@ -16,10 +16,10 @@ Thanks to [N2YCR](https://wiki.nycresistor.com/wiki/Ham_Radio) for the idea.
 
 # Files and Contents
 
-* Simplex.csv - Common simplex frequencies that are good to have stored
-* PreferredRepeaters.csv - Repeaters that generally have traffic and/or are used by local clubs
-* OtherRepeaters.csv - Other repeaters in and around NYC that sometimes have traffic
-* NotHamButCool.csv - Frequencies outside of the licensed ham bands that are still of interest (don't transmit here!)
+* [Simplex Frequencies](Simplex.csv) - Common simplex frequencies that are good to have stored
+* [Preferred Repeaters](PreferredRepeaters.csv) - Repeaters that generally have traffic and/or are used by local clubs
+* [Other Repeaters](OtherRepeaters.csv) - Other repeaters in and around NYC that sometimes have traffic
+* [Not ham, but still cool](NotHamButCool.csv) - Frequencies outside of the licensed ham bands that are still of interest (don't transmit here!)
 
 # Contributing
 
