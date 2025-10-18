@@ -9,10 +9,22 @@ Thanks to [N2YCR](https://wiki.nycresistor.com/wiki/Ham_Radio) for the idea.
 
 # How do I use this?
 
+There are two options. If you want to both listen _and_ talk, then you need to:
+
 1. [Get a ham license](https://wiki.nycresistor.com/wiki/Ham_Radio#Getting_licensed)
 2. Get a HT, like a Baofeng UV-5R or similar
 3. Download [CHIRP](https://chirpmyradio.com)
 4. Find the repeaters of interest to you in these CSV files and copy/paste into Chirp
+
+If you just want to listen, not talk, then you don't need a license:
+
+1. Get an HT, like a Baofeng UV-5R or similar. DO NOT PRESS THE PTT BUTTON
+3. Download [CHIRP](https://chirpmyradio.com)
+3. Find the repeaters of interest to you in these CSV files and copy/paste into Chirp
+4. Listen, without pushing PTT
+
+Alternatively, you could get an SDR dongle to plug into your computer and tune to the frequencies noted
+in this repo. Since SDR's don't typically transmit, you're fine.
 
 # Files and Contents
 
