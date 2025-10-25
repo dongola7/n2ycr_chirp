@@ -31,9 +31,10 @@ in this repo. Since SDR's don't typically transmit, you're fine.
 * [Simplex Frequencies](Simplex.csv) - Common simplex frequencies that are good to have stored
 * [Preferred Repeaters](PreferredRepeaters.csv) - Repeaters that generally have traffic and/or are used by local clubs
 * [Other Repeaters](OtherRepeaters.csv) - Other repeaters in and around NYC that sometimes have traffic
+* [Packet Radio Frequencies](PacketRadio.csv) - Include AX.25 packet nodes, Winlink nodes, etc. For use with digital data mode operation
 * [Not ham, but still cool](NotHamButCool.csv) - Frequencies outside of the licensed ham bands that are still of interest (don't transmit here!)
 
 # Contributing
 
-This list was originally put together by [KE2EHU](https://ke2ehu.com). If you'd like to contribute corrections,
-improvements, new collections, etc., just send a PR.
+This list was originally put together by [KE2EHU](https://ke2ehu.com), but contributions are welcome! See [contributing](CONTRIBUTING.md)
+for details on how to contribute.
